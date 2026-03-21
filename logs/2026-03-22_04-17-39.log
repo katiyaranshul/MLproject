@@ -1,0 +1,5 @@
+[2026-03-22 04:17:40,306] 28 root - INFO - Starting Data Ingestion
+[2026-03-22 04:17:40,322] 48 root - INFO - Data Ingestion Completed
+[2026-03-22 04:17:40,328] 71 root - INFO - Starting Data Transformation
+[2026-03-22 04:17:40,339] 96 root - INFO - Preprocessor Saved
+[2026-03-22 04:17:40,339] 33 root - INFO - Splitting data

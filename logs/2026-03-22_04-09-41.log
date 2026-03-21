@@ -1,0 +1,6 @@
+[2026-03-22 04:09:41,804] 28 root - INFO - Starting Data Ingestion
+[2026-03-22 04:09:41,809] 38 root - INFO - CSV file loaded
+[2026-03-22 04:09:41,818] 49 root - INFO - Data Ingestion Completed
+[2026-03-22 04:09:41,820] 71 root - INFO - Starting Data Transformation
+[2026-03-22 04:09:41,831] 100 root - INFO - Preprocessor saved
+[2026-03-22 04:09:41,831] 34 root - INFO - Splitting training and test data

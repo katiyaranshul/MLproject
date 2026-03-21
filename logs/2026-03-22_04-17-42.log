@@ -1,0 +1,6 @@
+[2026-03-22 04:17:42,925] 28 root - INFO - Starting Data Ingestion
+[2026-03-22 04:17:42,931] 48 root - INFO - Data Ingestion Completed
+[2026-03-22 04:17:42,931] 71 root - INFO - Starting Data Transformation
+[2026-03-22 04:17:42,939] 96 root - INFO - Preprocessor Saved
+[2026-03-22 04:17:42,939] 33 root - INFO - Splitting data
+[2026-03-22 04:17:44,109] 90 root - INFO - Best Model: Linear Regression, Score: 0.8804332983749565
