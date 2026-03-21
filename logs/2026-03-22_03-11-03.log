@@ -1,0 +1,6 @@
+[2026-03-22 03:11:03,023] 24 root - INFO - Entered data ingestion method
+[2026-03-22 03:11:03,023] 31 root - INFO - Reading file from: /Users/ridamkatiyar/Desktop/mlproject01/srs/notebook/DATA/stud.csv
+[2026-03-22 03:11:03,025] 38 root - INFO - Dataset read successfully
+[2026-03-22 03:11:03,027] 46 root - INFO - Train-test split started
+[2026-03-22 03:11:03,029] 57 root - INFO - Data ingestion completed
+[2026-03-22 03:11:03,110] 84 root - INFO - Train and test data loaded
