@@ -1,0 +1,17 @@
+setup.py
+mlproject01.egg-info/PKG-INFO
+mlproject01.egg-info/SOURCES.txt
+mlproject01.egg-info/dependency_links.txt
+mlproject01.egg-info/requires.txt
+mlproject01.egg-info/top_level.txt
+srs/__init__.py
+srs/exception.py
+srs/logger.py
+srs/utils.py
+srs/components/__init__.py
+srs/components/data_ingestion.py
+srs/components/data_transformation.py
+srs/components/model_trainer.py
+srs/pipeline/__init__.py
+srs/pipeline/predict_pipeline.py
+srs/pipeline/train_pipeline.py

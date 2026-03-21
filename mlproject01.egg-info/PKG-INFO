@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: mlproject01
+Version: 0.0.1
+Author: Rida M Katiyar
+Author-email: <EMAIL_ADDRESS>
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: lightgbm
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
